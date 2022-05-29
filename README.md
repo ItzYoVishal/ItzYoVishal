@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Creator and Founder of @Plato-Community. Im a passionate fullstack web developer from India, I do web and discord based freelancing!</h3>
+<h3 align="center">Creator and Founder of [Plato-Community](https://github.com/Plato-Community). Im a passionate fullstack web developer from India, I do web and discord based freelancing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzyovishal&label=Profile%20views&color=0e75b6&style=flat" alt="itzyovishal" /> </p>
 
