@@ -1,39 +1,113 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Creator and Founder of <a href="https://github.com/Plato-Community">Plato Community</a>. Im a passionate fullstack web developer from India, I do web and discord based freelancing!</h3>
+<h1 align="center">Hi 👋, I'm Vishal/SyntaxSavior</h1>
+<h3 align="center">Creator and Founder of <a href="https://discord.gg/pxW6bahVDT">@CodeCrafters<a>.</h3>
+<a href="https://git.io/typing-svg" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=I+Am+A+Backend+Developer+And+A;Discord+Bot+Developer" alt="Typing SVG" />
+</a>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ItzYoVishal}/count.svg" alt="ItzYoVishal :: Visitor's Count" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzyovishal&label=Profile%20views&color=0e75b6&style=flat" alt="itzyovishal" /> </p>
+- 🔭 I’m currently working on [RepNary](https://discord.gg/pxW6bahVDT)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzyovishal" alt="itzyovishal" /></a> </p>
+- 🌱 I’m currently learning **Ethical Hacking**
 
-- 🔭 I’m currently working on [Meitu](https://dsc.gg/meitu)
+- 👯 I’m looking to collaborate on [CodeCrafters](https://discord.gg/pxW6bahVDT)
 
-- 🌱 I’m currently learning **Java and Ethical Hacking**
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/ItzYoVishal?tab=repositories)
 
-- 👯 I’m looking to collaborate on [Plato Community](https://dsc.gg/plato-community)
-
-- 👨‍💻 All of my projects are available at [https://itzyovishal.tk](https://itzyovishal.tk)
-
-- 📝 I regularly write articles on [https://blogs.itzyovishal.tk](https://blogs.itzyovishal.tk)
+<!-- - 📝 I regularly write articles on [https://blogs.itzyovishal.tk](https://blogs.itzyovishal.tk)
 
 - 💬 Ask me about **Web Development (can be frontend or backend) And Discord related stuffs!**
 
 - 📫 How to reach me **contact@vishal-dev.tech**
 
-- 📄 Know about my experiences [https://itzyovishal.tk](https://itzyovishal.tk)
+- 📄 Know about my experiences [https://itzyovishal.tk](https://itzyovishal.tk) -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itzyovishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzyovishal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itzyovishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itzyovishal" height="30" width="40" /></a>
-<a href="https://discord.gg/KnVMSMfzUm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KnVMSMfzUm" height="30" width="40" /></a>
-</p>
+<div>
+  <!-- <a href = "mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href="https://instagram.com/itzyovishal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="http://discordapp.com/users/474529598504304641" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@CodeCrafterz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="CSharp" />
+      <br>C#
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>Css
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="ExpressJS" />
+      <br>Express.JS
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+ <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="ReactJS" />
+      <br>React.JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+ </tr>
+</table>
+<br><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzyovishal&show_icons=true&locale=en&layout=compact" alt="itzyovishal" /></p><br>
+<h2>Github stats</h2>
+<p align="center">
+<a href="https://github.com/ItzYoVishal?tab=repositories">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=itzyovishal&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ItzYoVishal's github-stats"/></a>
+<a href="https://github.com/ItzYoVishal?tab=stars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itzyovishal&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@ItzYoVishal's github-streak-stats"/>
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzyovishal&show_icons=true&locale=en" alt="itzyovishal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzyovishal&" alt="itzyovishal" /></p>
-
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@ItzYoVishal">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzYoVishal&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="@ItzYoVishal's activity graph">
+    </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzyovishal&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="ItzYoVishal :: Top Langs" />
+    <a href="https://github.com/ItzYoVishal?tab=achievements">
+      <img src="https://github-profile-trophy.vercel.app/?username=ItzYoVishal&theme=gitdimmed&no-frame=true&column=3&row=2" width="38%" alt="@ItzYoVishal's trophy stats"/></a>
+</p>
